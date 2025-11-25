@@ -1,5 +1,3 @@
-// Penales 2D — Versión con pantalla de inicio, racha y GAME OVER
-
 // Cada portero tiene distinta probabilidad de adivinar tu tiro
 const keepers = [
   { name: "Novato",     guessProb: 0.30, jersey:"#16a34a", gloves:"#22c55e", shorts:"#14532d", style:"balanced", voice:"hey" },
